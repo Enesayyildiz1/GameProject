@@ -20,7 +20,7 @@ namespace GameProject.BusinessLogicLayer.Concrete
             {
 
                 base.Add(player,game);
-            }
+            } 
 
             else
             {

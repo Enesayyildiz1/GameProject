@@ -13,7 +13,11 @@ namespace GameProject.BusinessLogicLayer.CheckRealPerson.Concrete
             {
                 return true;
             }
-            return false;
+            else
+            {
+                     return false;
+            }
+           
         }
     }
 }
